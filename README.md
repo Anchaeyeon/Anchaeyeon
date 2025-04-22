@@ -22,11 +22,11 @@
   ### Tool
   <p>
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio-68217A?style=flat-square&logo=visual-studio&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse-ide&logoColor=white"/>
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
     <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/><br>
-    <img src="https://img.shields.io/badge/EditPlus-0078D7?style=flat-square&logo=editplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/EditPlus-0078D7?style=flat-square&logo=windows&logoColor=white"/>
     <img src="https://img.shields.io/badge/Dev--C%2B%2B-003A6B?style=flat-square&logo=dev-c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
