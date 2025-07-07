@@ -7,7 +7,7 @@
   
   ---
   
-  ### Language 
+  #### Language 
   <p>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   </p>
   
-  ### Tool
+  #### Tool
   <p>
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual%20Studio-68217A?style=flat-square&logo=visual-studio&logoColor=white"/>
@@ -35,14 +35,14 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   </p>
   
-  ### DataBase
+  #### DataBase
   <p>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black"/>
   </p>
   
-  ### Collaboration & Design
+  #### Collaboration & Design
   <p>
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
