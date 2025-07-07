@@ -50,14 +50,14 @@
   </p>
   <br>
   
-  ## 📈 GitHub Stats
+  ### 📈 GitHub Stats
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchaeyeon&layout=compact" height="180">
     <img src="https://github-readme-stats.vercel.app/api?username=Anchaeyeon&show_icons=true" height="180">
   </p>
   <br>
 
-  ## 👩‍🌾 Git Farm 
+  ### 👩‍🌾 Git Farm 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Anchaeyeon&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/Anchaeyeon"
